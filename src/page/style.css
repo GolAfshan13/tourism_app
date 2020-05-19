@@ -1,0 +1,36 @@
+.all-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.describe{
+    background-color:#333;
+}
+/* .full-description{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding-top: 300px;
+} */
+
+.describtion{
+    /* background-color: blue; */
+    /* padding-top: 300px; */
+    display: inline-block;
+    align-content: center;
+    height: 100%;
+    /* width: 100vh; */
+    color: thistle;
+}
+
+.my-img {
+    width: 50vh;
+}
+.des {
+    width: 120vh;
+}
+ 
+.App{
+    background-color: #333;
+}

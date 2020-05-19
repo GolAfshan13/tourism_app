@@ -1,0 +1,15 @@
+.info-class {
+    color: white;
+    padding-bottom: 10%;
+}
+
+.group-name {
+    padding: 20px 0 ;
+}
+
+.members{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    pointer-events: none;
+}
